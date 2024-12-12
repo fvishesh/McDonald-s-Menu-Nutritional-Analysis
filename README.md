@@ -18,3 +18,10 @@ McDonald.docx: This Word document provides detailed project requirements, object
 The analysis consists of the following steps:
 Data Collection and Preprocessing: Reading the dataset and cleaning the data to handle missing values and inconsistencies.
 Exploratory Data Analysis (EDA):Analysing the distribution of calorie counts across menu items.Exploring the nutritional content (e.g., fat, protein, carbohydrates) of different items.Identifying trends and patterns in the dataset.Data Visualization:Creating bar charts, histograms, and box plots to visualize calorie distribution and nutritional content.Comparing nutritional characteristics of different food categories (e.g., burgers, salads, desserts).Nutrition-Based Insights:Identifying menu items with the highest and lowest calorie counts.Determining  the average nutritional content of popular menu categories.Documentation and Reporting:Summarizing the findings and insights from the analysis.Explaining how the nutritional analysis could benefit McDonald's customers and the organization
+# McDonald's could improve the nutritional profile of their menu by following the below mentioned suggestions.
+## - Include details about allergens and ingredients to accommodate customers with dietary restrictions.  
+## - Exclude food items that are excessively high in calories or adjust their portion sizes.  
+## - Enhance protein intake by pairing low-protein items with protein-rich options.  
+## - Establish a feedback system for customers to share their thoughts on the nutritional information provided, such as through surveys, app reviews, or in-store feedback forms.  
+## - Offer discounts or reduced pricing on healthy meal options to encourage healthier choices.  
+## - Set slightly higher prices for unhealthy meal options to promote better dietary habits.  
