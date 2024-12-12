@@ -5,8 +5,8 @@ McDonald's is a global fast-food chain known for its diverse menu offerings. As 
 2.Dataset
 3.Project Files
 4.Analysis Overview
-5.Usage
-6.Contributing
+5.Suggestions
+
 # Introduction
 The McDonald's Menu Nutritional Analysis - Project focuses on leveraging data analysis techniques to extract valuable insights from the given data.  By understanding the detailed nutritional information provided in the dataset customers can be educated about the health benefits of products, fostering better engagement and loyalty. It also aids in developing new products that cater to specific dietary requirements, such as low-calorie, low-sugar, or high-protein options. 
 # Dataset
